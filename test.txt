@@ -1,1 +1,1 @@
-Test changes to Git file
+Test changes to file
